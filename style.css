@@ -112,7 +112,6 @@ body {
 
 .btn {
     position: absolute;
-    left: 50%;
     justify-content: space-between;
     bottom: 35px;
 }
@@ -121,6 +120,7 @@ body {
     display: inline-flex;
     align-items: center;
     justify-content: center;
+    left: 50%;
     font-size: 20px;
     text-decoration: none;
     
