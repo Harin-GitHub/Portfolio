@@ -118,7 +118,7 @@ body {
 }
 
 .btn a {
-    display: inline-flex;
+    display: flex;
     align-items: center;
     left: 50%;
     justify-content: center;
