@@ -113,6 +113,7 @@ body {
 .btn {
     position: absolute;
     justify-content: center;
+    left: 50%;
     bottom: 35px;
 }
 
