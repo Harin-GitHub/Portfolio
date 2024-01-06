@@ -130,6 +130,7 @@ body {
 .btn a:nth-child(1) {
     height: 45px;
     width: 125px;
+    left: 25px;
     background: #FFFFFF;
     border-radius: 30px;
     color: #000000;
